@@ -1,0 +1,11 @@
+boto3
+langchain
+langchain_aws
+langchain_community
+langchain_core
+numpy 
+pandas
+pymupdf
+tqdm
+wheel
+xmltodict

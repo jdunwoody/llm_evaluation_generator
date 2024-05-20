@@ -1,0 +1,4 @@
+venv
+output
+.langchain.db
+.DS_Store
